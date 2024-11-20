@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南京",
+        "count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7969,
+          32.0603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "廣州",
+        "count": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2644,
+          23.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北京",
+        "count": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌",
+        "count": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8579,
+          28.6829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "杭州",
+        "count": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1551,
+          30.2741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "濟南",
+        "count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1201,
+          36.6512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖州",
+        "count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0881,
+          30.8927
+        ]
+      }
+    }
+  ]
+}
